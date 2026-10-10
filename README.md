@@ -452,7 +452,7 @@ Through this project, I practised:
 
 ## 👨‍💻 Author
 
-**YOUR NAME**
+Pankaj Singh
 
 Cybersecurity Learner | Python | Kali Linux | Information Gathering
 
